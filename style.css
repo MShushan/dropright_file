@@ -30,7 +30,6 @@ html, body {
     left: 291px;
     width: 300px;
     top: 40px;
-    list-style: none;
     display: none;
   }
   .dropdown:hover > .dropdown_two{
